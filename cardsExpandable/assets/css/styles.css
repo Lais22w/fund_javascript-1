@@ -13,8 +13,8 @@
 body {
   font-family: Inter, sans-serif;
   height: 100vh;
-  color: white;
-  background-color: #ADCBD7;
+  color: rgb(203, 217, 219);
+  background-color: #dcdce7;
   display: flex;
   justify-content: center;
   align-items: center;
